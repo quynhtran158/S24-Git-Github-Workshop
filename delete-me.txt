@@ -1,2 +1,0 @@
-
-Let's delete this file, then commit your work, and push it to your repository to see the changes 😉
